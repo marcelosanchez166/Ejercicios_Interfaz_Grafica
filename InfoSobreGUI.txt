@@ -1,0 +1,16 @@
+"""Las interfaces graficas ó (GUI) son ventanas con las que el usuario interactua, es un intermediario entre el progama y el usuario
+Estan formadas por subventanas, botones, menus, casillas de verificacion etc"""
+
+#Librerias para trabajar con GUI 
+"""
+1-Tkinter= es un punte entre Pyhton y la libreria TCL/TK estandar de otros lenguajes 
+2-WxPython
+3-PyQT
+4-PyGTK
+"""
+
+#Estructura de una interfaz con Tkinter
+"""RaizTk= La ventana
+frame=como organizador de elemento, tambien considerado widget
+Widgets=botones, menus desplegables, casillas de verificacion, cuadros de texto
+"""
